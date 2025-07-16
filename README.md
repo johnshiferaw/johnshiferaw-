@@ -11,6 +11,23 @@
 - Predict survival with 82% accuracy  
 - Interactive sliders for user input  
 
+
+
+
+
+
+
+
+## 🚀 Featured Projects  
+### 📊 Retail Sales Optimizer  
+[![Live Demo](https://img.shields.io/badge/TRY_IT-LIVE-FF4B4B)](https://johnshiferaw-retail-sales.streamlit.app/)  
+[![Code](https://img.shields.io/badge/VIEW_CODE-GitHub-black)](https://github.com/johnshiferaw/retail-sales)  
+
+**Tech**: Python, SQL, Streamlit, Plotly  
+
+
+
+
 ---
 
 📫 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/yohannes-shiferaw-107231360) | [gmail](mailto:yohannesshiferawameha@gmail.com)
